@@ -14,7 +14,7 @@ public class Bai2 {
             for (int i = 1; i <= 10; i++) {
                 int b;
                 b = n * i;
-                System.out.println(b);
+                System.out.println(n + "x" + i + "=" + b);
             }
         }
     }
